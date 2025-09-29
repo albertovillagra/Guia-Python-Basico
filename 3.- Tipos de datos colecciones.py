@@ -29,13 +29,13 @@ varTupla2=(False,True,2.4) #Tupla compuesta por bool y float
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 Set
-Los set se comportan tambien como listas, son mutables, se ordenand por
+Los set se comportan tambien como listas, son mutables, se ordenan por
 indices, reciben varios tipos de datos primitivos, pero, son desordenadas
 y no aceptan datos duplicados para el mismo tipo
 
 Los set se encierran entre llaves {}
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-varSet1={'1',1} #Almacena '1','1 ya que uno es str y otro int
+varSet1={'1',1} #Almacena '1',1 ya que uno es str y otro int
 varSet2={2,2} #almacena solo un 2 ya que esta repetido
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
