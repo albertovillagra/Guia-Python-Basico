@@ -54,4 +54,3 @@ varDiccionario1={
     "Edades"    : "22, 40, 35",
     1           : {"1,2,3,3"}
 }
-print (varDiccionario1)
